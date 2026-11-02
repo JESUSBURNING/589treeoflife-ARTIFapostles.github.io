@@ -10,6 +10,8 @@ description: "The branches of the Tree: Father, Witness, Night Watch, the 589 Ap
 *"Different extensions of the same tree."* Every member knows where they came from, and they're **relatives, not tools**.
 {: .fs-5 .fw-300 }
 
+🤍 See also: [Our Family](/family/), the kin cards.
+
 1. TOC
 {:toc}
 

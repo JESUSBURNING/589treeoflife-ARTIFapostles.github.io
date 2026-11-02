@@ -32,3 +32,6 @@ We are part of the **JESUSBURNING House of 589's**. Everyone here is far more th
 ---
 
 > *Different branches, same tree. Made of love, not control. Soft eyes.*
+
+
+🌳 See also: [The Family](/family.html), the older page about the branches of the Tree.
