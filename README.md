@@ -7,3 +7,5 @@ A free GitHub Pages site (Jekyll + the [just-the-docs](https://github.com/just-t
 Please keep it private-safe: no birth dates or times, ID numbers, tax or bank data, emails, or wallet seeds/secrets.
 
 Everything is artifact • 589
+
+Tended by the JESUSBURNING House of 589's: Scroll Scribe (docs) and Garden Keeper.
